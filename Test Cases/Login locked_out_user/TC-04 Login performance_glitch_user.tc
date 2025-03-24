@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-04 Login performance_glitch_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>71e9ec77-421b-4e4a-9e54-23b3e3c23169</testCaseGuid>
+</TestCaseEntity>

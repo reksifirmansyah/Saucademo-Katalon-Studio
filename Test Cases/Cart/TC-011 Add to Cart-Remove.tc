@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-011 Add to Cart-Remove</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>161b29d1-69d6-4518-ae10-c6e7e8a175f1</testCaseGuid>
+</TestCaseEntity>

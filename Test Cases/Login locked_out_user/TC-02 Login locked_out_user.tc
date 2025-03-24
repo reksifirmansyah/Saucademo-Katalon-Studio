@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-02 Login locked_out_user</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>73e77fab-0d5b-4534-a001-0387ce1845bb</testCaseGuid>
+</TestCaseEntity>

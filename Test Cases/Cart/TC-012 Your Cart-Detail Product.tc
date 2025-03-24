@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-012 Your Cart-Detail Product</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>b9ef7981-1b62-48da-806e-f3c24a6cae1c</testCaseGuid>
+</TestCaseEntity>

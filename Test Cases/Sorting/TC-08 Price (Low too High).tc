@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC-08 Price (Low too High)</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>0b65b57a-5532-4d99-b8a4-bbf6f6651370</testCaseGuid>
+</TestCaseEntity>
